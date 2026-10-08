@@ -5,6 +5,7 @@ mettres = 10
 message = "Bonjour" 
 j_aime_la_programmation = True
 
+#je imprime les resultat du type de variables 
 print(type(pourcentage_en_decimal))
 print(type(mettres ))
 print(type(message))

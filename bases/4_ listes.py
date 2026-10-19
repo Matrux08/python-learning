@@ -1,4 +1,4 @@
-#listes entrenainement 
+#listes 
 
 # je affiche la premiere valeur de la liste  
 reseaux_sociaux = ["Facebook","TikTok","Youtube","Instagram"]

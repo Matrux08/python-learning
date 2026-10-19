@@ -1,4 +1,4 @@
-# Types des variables exercices
+# exercice Types des variables exercices
 
 nom = "Diarra"
 age = 18

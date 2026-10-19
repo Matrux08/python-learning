@@ -1,11 +1,11 @@
 # Types des variables exercices
 
-pourcentage_en_decimal = 0.25
-mettres = 10
-message = "Bonjour" 
-j_aime_la_programmation = True
+nom = "Diarra"
+age = 18
+Taille = 1.86
+est_etudiant = True
 
-print(type(pourcentage_en_decimal))
-print(type(mettres ))
-print(type(message))
-print(type (j_aime_la_programmation))
+print(type(nom))
+print(type(age))
+print(type(Taille))
+print(type(est_etudiant))

@@ -13,5 +13,4 @@ fruits["pomme"] = "vert"
 del fruits["banane"]
 
 print(fruits.keys())
-
 print("banne" in fruits)
